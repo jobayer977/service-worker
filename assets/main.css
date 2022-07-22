@@ -1,0 +1,23 @@
+body {
+	font-family: Helvetica, sans-serif;
+	font-size: 14px;
+	background: darkgray;
+}
+
+.job {
+	max-width: 600px;
+	padding: 40px;
+	background: white;
+	box-shadow: 0 0 10px gray;
+	margin: 20px auto;
+
+	h1 {
+		font-size: 2em;
+		text-align: center;
+		margin: 0.5em 0 1.5em;
+	}
+
+	h2 {
+		font-size: 1.5em;
+	}
+} // .job
